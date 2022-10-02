@@ -1,3 +1,4 @@
 trying to figure it out
-how to use it
+
 this last line added by nano
+and adding one more line after to this commited file!
